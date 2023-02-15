@@ -112,7 +112,7 @@ export function Home() {
   }
 
   function handleInterruptCycle() {
-    setCycles(state) =>
+    setCycles((state) =>
       state.map((cycle) => {
         if (cycle.id === activeCycleId) {
           return { ...cycle, interruptedDate: new Date() }
