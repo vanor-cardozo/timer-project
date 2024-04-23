@@ -1,5 +1,6 @@
 {
-  "name": "02-ignite-timer",
+  "homepage": "https://vanor-cardozo.github.io/timer-project",
+  "name": "timer-project",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -7,11 +8,14 @@
     "dev": "vite",
     "build": "tsc && vite build",
     "preview": "vite preview",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist",
     "lint": "src "
   },
   "dependencies": {
     "@hookform/resolvers": "^2.9.11",
     "date-fns": "^2.29.3",
+    "gh-pages": "^6.1.1",
     "phosphor-react": "^1.4.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
