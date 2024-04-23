@@ -4,6 +4,9 @@
 Timer - esse webApp fornece um contador de minutos para projetos/tarefas criando um histórico com o status e tempo decorrido de cada projeto. O desafio na contrução de um Timer é dominar o ciclo de vida dos componentes (useEffect) garantindo o funcionamento, integridade e o gerenciamento das renderizações. Clique no link abaixo para conferir o deploy da aplicação!
 <p align="left"><a href="https://vanor-cardozo.github.io/timer-project/">acessar webApp</a></p>
 
+
+<img alt="funcionamento do app Web" title="web" src="timer_project_web2.gif"/>
+
 ## ⚙️ Funcionalidades
 
     - Adicionar um projeto/tarefa 
