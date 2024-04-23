@@ -1,12 +1,8 @@
 
-<p align="center">
- <a href="https://vanor-cardozo.github.io/timer-project/">acessar webApp</a>
-</p>
-
-
 ## 💻 Sobre o projeto
 
-O Timer é um webApp projetado para fornecer um contador de minutos que auxilia na organização de projetos e tarefas. Ele registra um histórico detalhado com o status e o tempo decorrido de cada projeto, permitindo uma gestão eficiente do tempo. Ao dominar o ciclo de vida dos componentes, especialmente o useEffect do React, garantimos o funcionamento contínuo e a integridade do contador, minimizando renderizações desnecessárias.
+Timer - esse webApp fornece um contador de minutos para projetos/tarefas criando um histórico com o status e tempo decorrido de cada projeto. O desafio na contrução de um Timer é dominar o ciclo de vida dos componentes (useEffect) garantindo o funcionamento, integridade e o gerenciamento das renderizações. Clique no link abaixo para conferir o deploy da aplicação!
+<p align="left"><a href="https://vanor-cardozo.github.io/timer-project/">acessar webApp</a></p>
 
 ## ⚙️ Funcionalidades
 
@@ -25,6 +21,6 @@ O Timer é um webApp projetado para fornecer um contador de minutos que auxilia 
   
 ---
 
-<p align="center">
-    <img alt="Rodapé com imagem e nome do autor Vanor Cardozo" title="eSports" src="footer_vanor_eSports.png"/>
-</p>
+<div align="center">
+    <img alt="Rodapé com imagem e nome do autor Vanor Cardozo" title="eSports" src="banner_readme_timer_project.png"/>
+</div>
