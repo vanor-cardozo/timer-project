@@ -290,7 +290,7 @@ Error generating stack: `+o.message+`
 
   display: flex;
   flex-direction: column;
-`;function Ik(){return Ye(jk,{children:[Q(Dk,{}),Q($g,{})]})}function zk(){return Q(jg,{children:Ye(jo,{path:"/",element:Q(Ik,{}),children:[Q(jo,{path:"/",element:Q(Zw,{})}),Q(jo,{path:"/history",element:Q(Ok,{})})]})})}const Vk=zy`
+`;function Ik(){return Ye(jk,{children:[Q(Dk,{}),Q($g,{})]})}function zk(){return Q(jg,{children:Ye(jo,{path:"/timer-project",element:Q(Ik,{}),children:[Q(jo,{path:"/",element:Q(Zw,{})}),Q(jo,{path:"/history",element:Q(Ok,{})})]})})}const Vk=zy`
     * {
         margin: 0;
         padding: 0;
