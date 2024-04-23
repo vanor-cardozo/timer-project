@@ -25,5 +25,5 @@ Timer - esse webApp fornece um contador de minutos para projetos/tarefas criando
 ---
 
 <div align="center">
-    <img alt="Rodapé com imagem e nome do autor Vanor Cardozo" title="eSports" src="banner_readme_timer_project.png"/>
+    <img alt="Rodapé com imagem e nome do autor Vanor Cardozo" title="eSports" src="banner_readme_timer_project2.png"/>
 </div>
